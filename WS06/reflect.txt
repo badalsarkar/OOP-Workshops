@@ -1,0 +1,3 @@
+The first thing that I learned from this lab is that we need to deallocate each element in the container if any memory was allocated. In our case, we had objects that had to be
+deallocated. However what I found interesting was that just clearing the vector did not deallocate the memory. Also, we could have used only vectors or lists as they both are
+containers for holding our objects. One main difference is that Vectors have contiguous storage while the list is not contiguous.

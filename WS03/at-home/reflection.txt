@@ -1,0 +1,23 @@
+*****************************************
+Workshop 3 Reflection
+Student name:Badal Sarkar
+Student Id: 137226189
+Email: bsarkar2@myseneca.ca
+Date: October 1, 2019
+
+****************************************
+
+Things I have learned from this workshop-
+
+1. I have learned to design a template class. Template class is useful for generic programming when we can use the same class to instantiate object of multiple types. In designing our template class we have used both typename and non-type parameter. We have also used the concept of polymorphisism by making the display function virtual. I also practiced the concept of inheritance. 
+
+2. In this workshop, I have also specialized a template. We can specialize a template for a specific type. In this workshop we have specialized the sum() function, the initial value for summation. We have specialized sum function because for string type data, the function should concatanate two strings. This is different than the default behaviour of the function. We have specialized the initial value for string because again, for string 0 as a initial value does not make any sens. We have put an empty string as initial value. 
+
+3. In this workshop we have used static class member. Static class members are common to class not any specific object instantiated from the class. We have declared the static member as private. Therefore, in the derived class we can't access this member directly. We need a accessor function. For this reason, we have used a static member function. When we use static variable in template, the compiler requires its definition to instantiate a class from the template. We have to define the static object explicitly. Therefore, we defined it outside of the class.
+
+
+Difficulties I have faced:
+***************************
+
+The most difficult part was to get used to with the syntax of the template. I had to look at external sources, to understand the concept. 
+

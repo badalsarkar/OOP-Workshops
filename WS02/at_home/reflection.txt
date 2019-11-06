@@ -1,0 +1,55 @@
+*****************************************
+Workshop 2 Reflection
+Student name:Badal Sarkar
+Student Id: 137226189
+Email: bsarkar2@myseneca.ca
+Date: September 24, 2019
+
+****************************************
+
+Things I have learned from this workshop-
+
+1. I have learned to use the std::chorno library
+2. I have learned to use the fstream object to extract data from file
+3. I have learned to use the move constructor and move assignment operator. Using move semantics reduces the processing significantly.
+
+
+
+Lecture quiz 1 reflection
+*************************
+I missed the quiz. So here are all the answers-
+q1. None of the above
+q2. None of the above
+q3. No
+q4. a
+q5. a
+q6. c
+q7. yes
+q8. yes
+q9. a
+q10. b
+q11. c
+q12. a
+q13. a
+q14. a
+q15. b
+q16. a
+q17. a
+q18. a
+q19. b
+q20. a
+q21. a
+q22. b
+q23. a
+q24. c
+q25. a
+q26. c
+q27. c
+q28. d
+q29. c
+q30. b
+q31. c
+q32. c
+q33. b
+q34. b
+
